@@ -15,26 +15,16 @@ All transformations are implemented using **NumPy** and visualized with **Matplo
 
 ## 📂 Repository Structure
 geometric-transformations/
-│
-├── transformations/
-│ ├── affine_transform.py
-│ ├── similarity_transform.py
-│ ├── euclidean_transform.py
-│ ├── projective_transform.py
-│ └── init.py
-│
-├── examples/
-│ ├── demo_affine.py
-│ ├── demo_similarity.py
-│ ├── demo_euclidean.py
-│ └── demo_projective.py
-│
-├── requirements.txt
-├── README.md
-└
-── LICENSE
-
----
+1.transformations/
+* affine_transform.py
+*  similarity_transform.py
+*   euclidean_transform.py
+*   projective_transform.py
+*   init.py
+2.examples
+3.requirements.txt
+4.ReADME.md
+5.LiCENSE
 
 ## ⚡ Requirements
 
