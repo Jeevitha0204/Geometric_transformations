@@ -21,10 +21,14 @@ geometric-transformations/
 *   euclidean_transform.py
 *   projective_transform.py
 *   init.py
-2.examples/
-3.requirements.txt/
-4.ReADME.md/
-5.LiCENSE/
+  
+2.Examples
+
+3.requirements.txt
+
+4.ReADME.md
+
+5.LiCENSE
 
 ## ⚡ Requirements
 
