@@ -14,8 +14,9 @@ All transformations are implemented using **NumPy** and visualized with **Matplo
 ---
 
 ## 📂 Repository Structure
-geometric-transformations/
-1.transformations/
+geometric-transformations
+
+1.transformations
 * affine_transform.py
 *  similarity_transform.py
 *   euclidean_transform.py
