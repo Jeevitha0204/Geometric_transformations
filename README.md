@@ -27,7 +27,7 @@ geometric-transformations
 
 3.requirements.txt
 
-4.ReADME.md
+4.README.md
 
 5.LiCENSE
 
